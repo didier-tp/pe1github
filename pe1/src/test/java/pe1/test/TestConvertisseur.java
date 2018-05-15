@@ -1,17 +1,19 @@
 package pe1.test;
 
 import org.junit.Assert;
-import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
+
 import pe1.Convertisseur;
 
 //@Test et @Before necessite <dependency> junit dans pom.xml
 public class TestConvertisseur {
 	
-	private Convertisseur convertisseur;//à tester
+	private static Convertisseur convertisseur;//à tester
 
-	@Before
-	public void init() {
+	@BeforeClass
+	public static void init() {
+		System.out.println("init appelé une seule fois avec @BeforeClass");
 		convertisseur = new Convertisseur();
 	}
 	
