@@ -6,7 +6,7 @@ public class DidierApp {
 		System.out.println("didier app v1 *** ### ***");
         System.out.println("6 aout");
         System.out.println("***");
-        int a=2;
+        int a=3;
         System.out.println("a="+a);
 	}
 
