@@ -1,3 +1,13 @@
 2018-05-16 12:38:35,352 INFO main com.capgemini.pe1.DidierApp - didier app v1 *** ### ***
 2018-05-16 12:38:35,368 DEBUG main com.capgemini.pe1.DidierApp - sysout le 6 aout seulement
 2018-05-16 12:38:35,368 DEBUG main com.capgemini.pe1.DidierApp - ***
+2018-05-16 14:17:42,454 INFO main com.capgemini.pe1.DidierApp - didier app v1 *** ### ***
+2018-05-16 14:17:42,454 DEBUG main com.capgemini.pe1.DidierApp - sysout le 6 aout seulement
+2018-05-16 14:17:42,454 DEBUG main com.capgemini.pe1.DidierApp - ***
+2018-05-16 14:43:48,054 INFO main com.capgemini.pe1.DidierApp - didier app v1 *** ### ***
+2018-05-16 14:43:48,054 DEBUG main com.capgemini.pe1.DidierApp - sysout le 6 aout seulement
+2018-05-16 14:43:48,054 DEBUG main com.capgemini.pe1.DidierApp - ***
+2018-05-16 14:44:51,185 INFO main com.capgemini.pe1.DidierApp - didier app v1 *** ### ***
+2018-05-16 14:46:29,022 INFO main com.capgemini.pe1.DidierApp - didier app v1 *** ### ***
+2018-05-16 14:46:29,022 DEBUG main com.capgemini.pe1.DidierApp - sysout le 6 aout seulement
+2018-05-16 14:46:29,022 DEBUG main com.capgemini.pe1.DidierApp - ***
