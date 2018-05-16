@@ -1,4 +1,4 @@
-package pe1;
+package com.capgemini.pe1;
 
 public class Convertisseur {
 	
