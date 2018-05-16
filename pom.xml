@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.capgemini</groupId>
   <artifactId>pe1github</artifactId> <!-- multimodules -->
-  <version>vv</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <properties>
@@ -15,7 +15,7 @@
     <connection>scm:git:https://github.com/didier-tp/pe1github</connection>
     <developerConnection>scm:git:https://github.com/didier-tp/pe1github</developerConnection>
     <url>https://github.com/didier-tp/pe1github</url>
-    <tag>vv</tag>
+    <tag>HEAD</tag>
   </scm>
   
  <modules>
