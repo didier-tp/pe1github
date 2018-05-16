@@ -17,7 +17,7 @@ public class DidierApp {
 		logger.debug("***");
 		//logger.error() dans try/catch
         int a=3;
-        //System.out.println("a="+a);
+        System.out.println("a="+a);
 	}
 
 }
