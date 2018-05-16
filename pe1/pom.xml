@@ -17,12 +17,7 @@
   </properties>
   -->
   
-   <scm>
-    <connection>scm:git:https://github.com/didier-tp/pe1github</connection>
-    <developerConnection>scm:git:https://github.com/didier-tp/pe1github</developerConnection>
-    <url>https://github.com/didier-tp/pe1github</url>
-    <tag>HEAD</tag>
-  </scm>
+   
   
   <dependencies>
       
