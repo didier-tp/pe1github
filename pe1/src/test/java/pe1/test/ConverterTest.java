@@ -7,7 +7,13 @@ import org.junit.Test;
 import pe1.Convertisseur;
 
 //@Test et @Before necessite <dependency> junit dans pom.xml
-public class TestConvertisseur {
+
+/*
+ * Les classes de Test sont par defaut déclenchées par maven 
+ * si leurs noms commencent ou se terminent par "Test"
+ */
+
+public class ConverterTest {
 	
 	private static Convertisseur convertisseur;//à tester
 
